@@ -1,0 +1,16 @@
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\bin\Debug\net8.0-windows\LunchOrder.exe
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\bin\Debug\net8.0-windows\LunchOrder.deps.json
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\bin\Debug\net8.0-windows\LunchOrder.runtimeconfig.json
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\bin\Debug\net8.0-windows\LunchOrder.dll
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\bin\Debug\net8.0-windows\LunchOrder.pdb
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\obj\Debug\net8.0-windows\LunchOrder.Form1.resources
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\obj\Debug\net8.0-windows\LunchOrder.csproj.GenerateResource.cache
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\obj\Debug\net8.0-windows\LunchOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\obj\Debug\net8.0-windows\LunchOrder.AssemblyInfoInputs.cache
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\obj\Debug\net8.0-windows\LunchOrder.AssemblyInfo.cs
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\obj\Debug\net8.0-windows\LunchOrder.csproj.CoreCompileInputs.cache
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\obj\Debug\net8.0-windows\LunchOrder.dll
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\obj\Debug\net8.0-windows\refint\LunchOrder.dll
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\obj\Debug\net8.0-windows\LunchOrder.pdb
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\obj\Debug\net8.0-windows\LunchOrder.genruntimeconfig.cache
+C:\Users\georf\Downloads\LunchOrder_completed\LunchOrder\obj\Debug\net8.0-windows\ref\LunchOrder.dll
