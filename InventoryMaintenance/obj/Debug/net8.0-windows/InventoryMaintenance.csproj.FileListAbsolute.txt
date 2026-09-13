@@ -1,0 +1,26 @@
+C:\Islam\Fall 2025\Contemporary Programming\M3\New NET8 Lab\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.frmInvMaint.resources
+C:\Islam\Fall 2025\Contemporary Programming\M3\New NET8 Lab\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.frmNewItem.resources
+C:\Islam\Fall 2025\Contemporary Programming\M3\New NET8 Lab\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.csproj.GenerateResource.cache
+C:\Islam\Fall 2025\Contemporary Programming\M3\New NET8 Lab\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Islam\Fall 2025\Contemporary Programming\M3\New NET8 Lab\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.AssemblyInfoInputs.cache
+C:\Islam\Fall 2025\Contemporary Programming\M3\New NET8 Lab\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.AssemblyInfo.cs
+C:\Islam\Fall 2025\Contemporary Programming\M3\New NET8 Lab\InventoryMaintenance\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryItems.xml
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.exe
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.deps.json
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.runtimeconfig.json
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.dll
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\bin\Debug\net8.0-windows\InventoryMaintenance.pdb
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.frmInvMaint.resources
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.frmNewItem.resources
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.csproj.GenerateResource.cache
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.AssemblyInfoInputs.cache
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.AssemblyInfo.cs
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.dll
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\refint\InventoryMaintenance.dll
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.pdb
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\InventoryMaintenance.genruntimeconfig.cache
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\ref\InventoryMaintenance.dll
+C:\Users\georf\Downloads\InventoryMaintenance-completed\InventoryMaintenance\obj\Debug\net8.0-windows\Inventor.62D9263A.Up2Date

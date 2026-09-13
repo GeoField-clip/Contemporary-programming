@@ -1,0 +1,48 @@
+﻿using System;
+using System.Windows.Forms;
+
+namespace InventoryMaintenance
+{
+    public partial class frmNewItem : Form
+    {
+        private InvItem? invItem = null;
+
+        public frmNewItem()
+        {
+            InitializeComponent();
+        }
+
+        public InvItem? GetNewItem()
+        {
+            this.ShowDialog();
+            return invItem;
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            if (IsValidData())
+            {
+                invItem = new InvItem(
+                    Convert.ToInt32(txtItemNo.Text),
+                    txtDescription.Text,
+                    Convert.ToDecimal(txtPrice.Text));
+
+                this.Close();
+            }
+        }
+
+        private bool IsValidData()
+        {
+            return Validator.IsPresent(txtItemNo) &&
+                   Validator.IsInt32(txtItemNo) &&
+                   Validator.IsPresent(txtDescription) &&
+                   Validator.IsPresent(txtPrice) &&
+                   Validator.IsDecimal(txtPrice);
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}
